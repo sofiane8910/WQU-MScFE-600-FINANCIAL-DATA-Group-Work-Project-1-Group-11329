@@ -2,8 +2,6 @@
 
 ## Group Work Project # 1
 
-> **Note:** See grading rubric here.
-
 Below you will find four separate scenarios and each one includes a set of questions that you are required to answer in words, using code, or both words and code. The 'Submission requirements and format' section on Page 4 provides a detailed explanation on how to complete and submit the assignment through the online platform.
 
 ---
